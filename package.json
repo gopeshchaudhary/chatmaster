@@ -1,0 +1,14 @@
+{
+    "name": "ChatMaster",
+    "version": "1.0.0",
+    "description": "chatmaster",
+    "dependencies": {
+        "socket.io": "latest",
+        "express": "latest",
+        "jade": "latest"
+    },
+    "author": "gopeshchaudhary",
+    "devDependencies": {
+        "nodemon": "^1.14.11"
+    }
+}
